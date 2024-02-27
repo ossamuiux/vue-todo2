@@ -42,6 +42,7 @@ function deleteItem(id) {
   // splice(시작위치, 삭제갯수)
   data.items.splice(idx, 1);
 }
+console.log('11');
 </script>
 
 <template>
