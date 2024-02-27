@@ -62,6 +62,11 @@ function test3() {
   console.log('11');
 }
 test3();
+
+function test4() {
+  console.log('11');
+}
+test4();
 </script>
 
 <template>
