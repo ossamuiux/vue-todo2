@@ -48,10 +48,20 @@ function test() {
 }
 test();
 
-function test222() {
-  console.log('22');
+function test1() {
+  console.log('11');
 }
-test222();
+test1();
+
+function test2() {
+  console.log('11');
+}
+test2();
+
+function test3() {
+  console.log('11');
+}
+test3();
 </script>
 
 <template>
