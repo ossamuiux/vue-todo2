@@ -47,6 +47,11 @@ function test() {
   console.log('11');
 }
 test();
+
+function test222() {
+  console.log('22');
+}
+test222();
 </script>
 
 <template>
