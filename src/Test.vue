@@ -24,6 +24,11 @@ function test222() {
   console.log('22');
 }
 test222();
+
+function test333() {
+  console.log('33');
+}
+test333();
 </script>
 
 <template>
